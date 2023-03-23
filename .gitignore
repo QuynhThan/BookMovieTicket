@@ -18,10 +18,10 @@ target/
 *.iws
 *.iml
 *.ipr
-*.properties
-*.xml
-*.properties
-application.properties
+# *.properties
+# *.xml
+# *.properties
+# application.properties
 
 ### NetBeans ###
 /nbproject/private/
@@ -35,4 +35,4 @@ build/
 
 ### VS Code ###
 .vscode/
-src/main/resources/application.properties
+# src/main/resources/application.properties
